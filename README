@@ -1,0 +1,5 @@
+The turnAround method is what you will want to implement into your input handling method in your own code
+
+Needs to be put in fixed update
+
+returns bool based off if turn around happens that frame or not
