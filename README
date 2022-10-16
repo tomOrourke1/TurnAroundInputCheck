@@ -3,3 +3,12 @@ The turnAround method is what you will want to implement into your input handlin
 Needs to be put in fixed update
 
 returns bool based off if turn around happens that frame or not
+
+saved inputs (field) needs to be at least 3
+
+
+my values for the other fields
+
+Max frame retracted allowance = 5
+
+max frame input reveresed = 2
